@@ -1,35 +1,35 @@
-# 🧩 app-dev.
+# 🏴‍☠️ app-dev.
 > *My first repository on GitHub!*
 
 ---
 
-## 🏴‍☠️ One Piece  
+## 🌊 **One Piece: The Grand Adventure**
 
-> “I’m gonna be King of the Pirates!” — *Monkey D. Luffy*
-
-### **💀 Straw Hat Pirates**
-Meet the amazing crew sailing across the Grand Line:
-
-1. 🥇 **Monkey D. Luffy** — *Captain*  
-   - Has the **Gomu Gomu no Mi** (Rubber powers) 🍖
-     ```
-     It was later revealed that Gomu Gomu no Mi is actually a Hito Hito no Mi Model Nika. 
-2. 🗡️ **Roronoa Zoro** — *Right-hand Man*  
-   - Master of the **Three Sword Style** ⚔️  
-3. 👞 **Vinsmoke Sanji** — *Left-hand Man*  
-   - The **Black Leg** chef who loves to cook and fight 🔥  
+| 🖼️ Poster | 📜 Details |
+|:--:|:--|
+| ![One Piece Poster](https://upload.wikimedia.org/wikipedia/en/2/29/OnePieceVol61Cover.jpg) | **🏆 Title:** One Piece  <br> **⭐ Rating:** 9.0/10  <br> **🎭 Genre:** Action · Adventure · Fantasy  <br> **✍️ Creator:** Eiichiro Oda  <br> **📅 Year Started:** 1999 (Anime) / 1997 (Manga)  <br> **🗺️ Description:** *One Piece* follows Monkey D. Luffy and his fearless crew, the Straw Hat Pirates, as they sail across the Grand Line in search of the legendary treasure known as the **“One Piece.”** Along their voyage, they battle warlords, face the Marines, and forge unbreakable bonds — all in pursuit of **freedom** and their **dreams**. |
 
 ---
 
-### 🔗 Learn More  
-📚 Check out detailed information about the crew here:  
-👉 [**Straw Hat Pirates (One Piece Wiki)**](https://onepiece.fandom.com/wiki/Straw_Hat_Pirates)
+## ⚓ **Straw Hat Pirates Crew**
 
+| 🧑‍✈️ Character | 🏅 Role | 💥 Power / Skill |
+|:--|:--|:--|
+| 🥇 **Monkey D. Luffy** | Captain | Gomu Gomu no Mi (Rubber powers) |
+| 🗡️ **Roronoa Zoro** | Swordsman / Right-hand Man | Three Sword Style |
+| 👞 **Vinsmoke Sanji** | Cook / Left-hand Man | Black Leg Martial Arts |
+| 🧭 **Nami** | Navigator | Clima-Tact & Weather Control |
+| 🦌 **Tony Tony Chopper** | Doctor | Human-Human Fruit |
+| 💣 **Usopp** | Sniper | Precision & Inventive Tactics |
+| 📚 **Nico Robin** | Archaeologist | Hana Hana no Mi (Clone Limbs) |
+| 🎸 **Brook** | Musician | Yomi Yomi no Mi (Soul Revival) |
+| ⚙️ **Franky** | Shipwright | Cyborg Enhancements |
+| 🌊 **Jinbe** | Helmsman | Fishman Karate |
+```
+possibly Bonney
 ---
 
-### 💡 Fun Fact  
+## 💡 Fun Fact  
 ```markdown
 Did you know?
-Luffy’s bounty keeps increasing after every major arc!
-
-
+One Piece holds the Guinness World Record for "Most Copies Published for the Same Comic Book Series by a Single Author (Oddachi san~)"!
