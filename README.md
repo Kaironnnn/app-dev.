@@ -15,9 +15,9 @@
 
 | 🧑‍✈️ Character | 🏅 Role | 💥 Power / Skill | 🖼️ Image |
 |:--|:--|:--|:--:|
-| 🥇 **Monkey D. Luffy** | Captain | Gomu Gomu no Mi (Rubber powers) | <img src="https://i.pinimg.com/564x/be/1d/ab/be1dab07f3fc9ee5a726e3439342fb14.jpg" width="80" alt="Luffy"> |
-| 🗡️ **Roronoa Zoro** | Swordsman / Right-hand Man | Three Sword Style | <img src="https://e1.pngegg.com/pngimages/705/293/png-clipart-roronoa-zoro-render-roronoa-zoro-illustration-thumbnail.png" width="80" alt="Zoro"> |
-| 👞 **Vinsmoke Sanji** | Cook / Left-hand Man | Black Leg Martial Arts | <img src="https://www.vhv.rs/dpng/d/384-3841056_black-leg-vinsmoke-sanji-sanji-one-piece-png.png" width="80" alt="Sanji"> |
+| 🥇 **Monkey D. Luffy** | Captain | Gomu Gomu no Mi (Rubber powers) | <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/how-one-piece-s-final-saga-could-surpass-its-shonen-peers-gear-5-luffy-featured.jpg?q=49&fit=contain&w=750&h=422&dpr=2" width="80" alt="Luffy"> |
+| 🗡️ **Roronoa Zoro** | Swordsman / Right-hand Man | Three Sword Style | <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/one-piece-zoro-wano.jpg?q=49&fit=contain&w=750&h=422&dpr=2" width="80" alt="Zoro"> |
+| 👞 **Vinsmoke Sanji** | Cook / Left-hand Man | Black Leg Martial Arts | <img src="https://comicbook.com/wp-content/uploads/sites/4/2024/07/b0e6de44-087a-432b-8db7-46e07b6d5f8f.jpg?w=1202" width="80" alt="Sanji"> |
 | 🧭 **Nami** | Navigator | Clima-Tact & Weather Control | <img src="https://www.pngall.com/wp-content/uploads/14/Nami-PNG-Pic.png" width="80" alt="Nami"> |
 | 🦌 **Tony Tony Chopper** | Doctor | Human-Human Fruit | <img src="https://i.pinimg.com/736x/00/7a/63/007a6324a8c1ec7faa4a07cf54e7d832.jpg" width="80" alt="Chopper"> |
 | 💣 **Usopp** | Sniper | Precision & Inventive Tactics | <img src="https://merlinsmusings.com/wp-content/uploads/2015/09/kuro_kabuto_infobox.png" width="80" alt="Usopp"> |
