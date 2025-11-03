@@ -1,4 +1,4 @@
-<img width="860" height="1217" alt="image" src="https://github.com/user-attachments/assets/1b48831d-713e-4a27-8ec3-10fad47b3a7f" /># 🏴‍☠️ app-dev.
+# 🏴‍☠️ app-dev.
 > *My first repository on GitHub!*
 
 ---
@@ -19,12 +19,12 @@
 | 🗡️ **Roronoa Zoro** | Swordsman / Right-hand Man | Three Sword Style | <img src="https://e1.pngegg.com/pngimages/705/293/png-clipart-roronoa-zoro-render-roronoa-zoro-illustration-thumbnail.png" width="80" alt="Zoro"> |
 | 👞 **Vinsmoke Sanji** | Cook / Left-hand Man | Black Leg Martial Arts | <img src="https://www.vhv.rs/dpng/d/384-3841056_black-leg-vinsmoke-sanji-sanji-one-piece-png.png" width="80" alt="Sanji"> |
 | 🧭 **Nami** | Navigator | Clima-Tact & Weather Control | <img src="https://www.pngall.com/wp-content/uploads/14/Nami-PNG-Pic.png" width="80" alt="Nami"> |
-| 🦌 **Tony Tony Chopper** | Doctor | Human-Human Fruit | <img src="https://imgur-link-here.png" width="80" alt="Chopper"> |
-| 💣 **Usopp** | Sniper | Precision & Inventive Tactics | <img src="https://imgur-link-here.png" width="80" alt="Usopp"> |
-| 📚 **Nico Robin** | Archaeologist | Hana Hana no Mi (Clone Limbs) | <img src="https://imgur-link-here.png" width="80" alt="Robin"> |
-| 🎸 **Brook** | Musician | Yomi Yomi no Mi (Soul Revival) | <img src="https://imgur-link-here.png" width="80" alt="Brook"> |
-| ⚙️ **Franky** | Shipwright | Cyborg Enhancements | <img src="https://imgur-link-here.png" width="80" alt="Franky"> |
-| 🌊 **Jinbe** | Helmsman | Fishman Karate | <img src="https://imgur-link-here.png" width="80" alt="Jinbe"> |
+| 🦌 **Tony Tony Chopper** | Doctor | Human-Human Fruit | <img src="https://i.pinimg.com/736x/00/7a/63/007a6324a8c1ec7faa4a07cf54e7d832.jpg" width="80" alt="Chopper"> |
+| 💣 **Usopp** | Sniper | Precision & Inventive Tactics | <img src="https://merlinsmusings.com/wp-content/uploads/2015/09/kuro_kabuto_infobox.png" width="80" alt="Usopp"> |
+| 📚 **Nico Robin** | Archaeologist | Hana Hana no Mi (Clone Limbs) | <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/01/nico-robin-after-the-timeskip-in-one-piece.jpg" width="80" alt="Robin"> |
+| 🎸 **Brook** | Musician | Yomi Yomi no Mi (Soul Revival) | <img src="https://necktie.wordpress.com/wp-content/uploads/2016/10/soul_solid_infobox.png?h=333&w=591" width="80" alt="Brook"> |
+| ⚙️ **Franky** | Shipwright | Cyborg Enhancements | <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/franky-one-piece.jpg?fit=crop&h=628&w=1200" width="80" alt="Franky"> |
+| 🌊 **Jinbe** | Helmsman | Fishman Karate | <img src="https://i.pinimg.com/564x/e3/4d/96/e34d968c1fd6a82beebe96bc4609ad26.jpg" width="80" alt="Jinbe"> |
 
 ---
 
