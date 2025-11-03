@@ -7,7 +7,7 @@
 
 | 🖼️ Poster | 📜 Details |
 |:--:|:--|
-| <img src="https://i5.walmartimages.com/seo/One-Piece-Manga-TV-Show-Poster-Wano-Size-24-x-36_9b010178-a12c-41d2-ae57-c8d887235d40.1e5369a84d3cc59e91b62b92c05d9f4b.jpg" width="300" alt="One Piece Poster"> | **🏆 Title:** One Piece  <br> **⭐ Rating:** 9.0/10  <br> **🎭 Genre:** Action · Adventure · Fantasy  <br> **✍️ Creator:** Eiichiro Oda  <br> **📅 Year Started:** 1999 (Anime) / 1997 (Manga)  <br> **🗺️ Description:** *One Piece* follows Monkey D. Luffy and his fearless crew, the Straw Hat Pirates, as they sail across the Grand Line in search of the legendary treasure known as the **“One Piece.”** Along their voyage, they battle warlords, face the Marines, and forge unbreakable bonds — all in pursuit of **freedom** and their **dreams**. |
+| <img src="https://i5.walmartimages.com/seo/One-Piece-Manga-TV-Show-Poster-Wano-Size-24-x-36_9b010178-a12c-41d2-ae57-c8d887235d40.1e5369a84d3cc59e91b62b92c05d9f4b.jpeg" width="300" alt="One Piece Poster"> | **🏆 Title:** One Piece  <br> **⭐ Rating:** 9.0/10  <br> **🎭 Genre:** Action · Adventure · Fantasy  <br> **✍️ Creator:** Eiichiro Oda  <br> **📅 Year Started:** 1999 (Anime) / 1997 (Manga)  <br> **🗺️ Description:** *One Piece* follows Monkey D. Luffy and his fearless crew, the Straw Hat Pirates, as they sail across the Grand Line in search of the legendary treasure known as the **“One Piece.”** Along their voyage, they battle warlords, face the Marines, and forge unbreakable bonds — all in pursuit of **freedom** and their **dreams**. |
 
 ---
 
